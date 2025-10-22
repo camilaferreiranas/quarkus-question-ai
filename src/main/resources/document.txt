@@ -1,0 +1,5 @@
+Quarkus é um framework Java nativo para Kubernetes, focado em alta performance
+e baixo consumo de memória. Ele é ideal para microsserviços e serverless.
+O modo de desenvolvimento (dev mode) do Quarkus permite live reload,
+o que torna o desenvolvimento muito rápido.
+O mascote do Quarkus é um Bóson de Higgs vermelho.
